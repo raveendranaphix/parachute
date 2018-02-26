@@ -1,3 +1,3 @@
 <?php
 
-// INIT FILE
+// INIT FILE TO CHANGE
